@@ -6,5 +6,6 @@ QGIS Agenda
 - Uploading shapefiles on QGIS
 - Changing Sybology
 - Geocoding Addresses from CSV files
+- Counting polygons and extracting data
 - Overview of Quick Start Guide
 - Troubleshooting and resources 
